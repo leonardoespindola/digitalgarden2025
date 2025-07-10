@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/quality-garden/testing/testing-2025/","tags":["prueba","testing"],"created":"2024-12-30T00:41:56.617-03:00","updated":"2025-07-01T08:27:02.269-03:00"}
+{"dg-publish":true,"permalink":"/quality-garden/testing/testing-2025/","tags":["prueba","testing"],"created":"2024-12-30T00:41:56.617-03:00","updated":"2025-07-09T21:21:26.924-03:00"}
 ---
 
-# Se viene Testing 2025
+# Se viene Testing 2025a
 # 🌟 Nota de ejemplo completa en Obsidian
 
 > Esta nota muestra cómo se ven **todos los elementos básicos** que puedes usar para tomar notas y organizarlas de forma clara y atractiva.
